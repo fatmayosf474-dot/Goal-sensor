@@ -1,0 +1,7 @@
+{
+  "name": "GoalScan AI - PES 2026 Scout",
+  "description": "An AI-powered video analysis tool that evaluates your football gameplay clips (e.g., PES/eFootball) and gives them a score out of 100 with professional feedback.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
